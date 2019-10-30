@@ -6,6 +6,6 @@ aframe.registerComponent('solar-system', {
         console.log("Hello !");
     },
     tick: function (time) {
-        // HERE YOUR ON EACH FRAME
+        // HERE YOUR CODE ON EACH FRAME
     }
 });
